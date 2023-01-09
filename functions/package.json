@@ -15,8 +15,8 @@
   "main": "lib/index.js",
   "dependencies": {
     "@google-cloud/storage": "^4.5.0",
-    "firebase-admin": "^8.6.0",
-    "firebase-functions": "^3.3.0",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "fs-extra": "^8.1.0",
     "sharp": "^0.25.4",
     "smartcrop": "^2.0.3",
